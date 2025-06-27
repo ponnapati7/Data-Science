@@ -21,18 +21,18 @@ Exploratory Data Analysis (EDA) on Netflix dataset to analyze trends, content ty
 Identified trends like growth of TV shows after 2015 and most common genres being Drama and Comedy.
 
 
-# 🏏 IPL Data Analysis Project
+#  IPL Data Analysis Project
 
-## 📑 Project Description
+##  Project Description
 This project involves exploratory data analysis of IPL (Indian Premier League) datasets using **Python**. The goal is to uncover key insights about team performances, player statistics, and match trends using Python libraries like **Pandas, Matplotlib, and Seaborn**.
 
-## 📁 Dataset Used
+##  Dataset Used
 - `matches.csv` — Contains information about matches (season, teams, toss, result, venue, etc.)
 - `deliveries.csv` — Contains ball-by-ball data (batsman, bowler, runs, wickets, etc.)
 
-📥 Dataset Source: [IPL Dataset on Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+ Dataset Source: [IPL Dataset on Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - Python 
 - Pandas 
 - Matplotlib 
